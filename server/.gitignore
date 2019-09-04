@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# debugging
+/logging/logs.txt
+
+# production
+/config/production.json

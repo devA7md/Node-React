@@ -1,0 +1,7 @@
+{
+  "DB": {
+    "URI": "mongodb://localhost/users",
+    "LOG": "mongodb://localhost/logs"
+  },
+  "SECRET_TOKEN": "NVHGRGyr##@+_klsadjfeakdsfj&*dksfsndvksdfdjsnvasjdfkdsjfsjdfn"
+}
